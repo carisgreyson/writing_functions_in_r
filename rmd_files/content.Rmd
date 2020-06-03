@@ -380,8 +380,8 @@ Create a new version of the `fizz_buzz()` function called `fizz_buzz_vec` which
 instead accepts a vector of numbers. Test it out on a vector of the numbers 1 to 15.
 
 **Hint:** the function `case_when()` from the Tidyverse package `dplyr` is really useful when you want
-to vectorise multiple if-else statements, each with a different desired outcome. Run `?case_when` to bring up 
-the help file.
+to vectorise multiple if-else statements, each with a different desired outcome. Load `dplyr` and run 
+`?case_when` to bring up the help file.
 
 *This exercise is a bit tricky - if you get stuck, you can still complete exercise 2.3.*
 
