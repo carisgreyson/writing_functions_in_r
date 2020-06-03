@@ -18,8 +18,9 @@ Before we start, make sure you've:
 1. Got access to the `alpha-r-training` bucket
 2. Cloned the `writing_functions_in_r` repo
 3. Pulled any changes (the blue arrow on the Git tab in the top right panel)
-4. Got `example_code.R` open
-5. Opened the `writing_functions_in_r` repo on GitHub, so you can refer to the read me
+4. Got `s3tools` installed (you can check by running `library(s3tools)`)
+5. Got `example_code.R` open
+6. Opened the `writing_functions_in_r` repo on GitHub, so you can refer to the read me
 
 If you need any help, just ask! For anyone joining remotely, we will be monitoring Skype throughout the session.
 
